@@ -4,7 +4,20 @@ pytest の基本的な使い方のサンプルコード
 
 ## Usage
 
-これから書く
+### セットアップ
+
+```bash
+pipenv install
+```
+
+### 実行
+
+```bash
+cd [main or coverage]
+pytest
+```
+
+実行すると htmlcov ディレクトリに html 形式でレポートが出力されます。
 
 ## 参考文献・URL
 
@@ -14,3 +27,4 @@ pytest の基本的な使い方のサンプルコード
 - [[Pytest] pytest 入門、テストコードを書く方法 │ Web備忘録](https://webbibouroku.com/Blog/Article/pytest)
 - [Top 8 Python Testing Frameworks in 2021 | TestProject](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
 - [unittestとpytestでそれぞれC1カバレッジ出力のコマンドを最小限に抑えてみました。 - Qiita](https://qiita.com/a1k4r/items/893be1e90aea91830cfd)
+- [Welcome to pytest-cov’s documentation! — pytest-cov 2.12.1 documentation](https://pytest-cov.readthedocs.io/en/latest/index.html)
