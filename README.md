@@ -28,3 +28,5 @@ pytest
 - [Top 8 Python Testing Frameworks in 2021 | TestProject](https://blog.testproject.io/2020/10/27/top-python-testing-frameworks/)
 - [unittestとpytestでそれぞれC1カバレッジ出力のコマンドを最小限に抑えてみました。 - Qiita](https://qiita.com/a1k4r/items/893be1e90aea91830cfd)
 - [Welcome to pytest-cov’s documentation! — pytest-cov 2.12.1 documentation](https://pytest-cov.readthedocs.io/en/latest/index.html)
+- [Pytest Fixture and Setup/Teardown Methods | Codedec](https://codedec.com/tutorials/pytest-fixture-and-setup-teardown-methods/)
+- [pytest fixtures: explicit, modular, scalable — pytest documentation](https://docs.pytest.org/en/stable/fixture.html)
