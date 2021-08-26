@@ -8,6 +8,8 @@ pytest = "*"
 coverage = "*"
 mailer = "*"
 pytest-cov = "*"
+playwright = "*"
+pytest-playwright = "*"
 
 [dev-packages]
 autopep8 = "*"

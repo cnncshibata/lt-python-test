@@ -30,3 +30,4 @@ pytest
 - [Welcome to pytest-cov’s documentation! — pytest-cov 2.12.1 documentation](https://pytest-cov.readthedocs.io/en/latest/index.html)
 - [Pytest Fixture and Setup/Teardown Methods | Codedec](https://codedec.com/tutorials/pytest-fixture-and-setup-teardown-methods/)
 - [pytest fixtures: explicit, modular, scalable — pytest documentation](https://docs.pytest.org/en/stable/fixture.html)
+- [最新自動テストツール『Playwright for Python』さわってみた - Qiita](https://qiita.com/yaboxi_/items/266b5ce18e57aa1faca1)
