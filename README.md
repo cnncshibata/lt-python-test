@@ -31,3 +31,4 @@ pytest
 - [Pytest Fixture and Setup/Teardown Methods | Codedec](https://codedec.com/tutorials/pytest-fixture-and-setup-teardown-methods/)
 - [pytest fixtures: explicit, modular, scalable — pytest documentation](https://docs.pytest.org/en/stable/fixture.html)
 - [最新自動テストツール『Playwright for Python』さわってみた - Qiita](https://qiita.com/yaboxi_/items/266b5ce18e57aa1faca1)
+- [Fast and reliable end-to-end testing for modern web apps | Playwright Python](https://playwright.dev/python/)
